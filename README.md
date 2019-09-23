@@ -60,7 +60,7 @@ Open up `lib/car.rb`. Notice that we are requiring `lib/vehicle.rb`. That is bec
 
 Go ahead and define the class in the following way:
 
-```ruby
+```ruby C
 class Car < Vehicle
 
 end
